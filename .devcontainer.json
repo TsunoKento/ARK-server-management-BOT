@@ -1,0 +1,9 @@
+{
+    "name": "AWS server managemtnt BOT container",
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "go",
+    "workspaceFolder": "/go/src",
+    "extensions": [
+        "golang.go"
+    ]
+}
